@@ -1,0 +1,42 @@
+{
+    "supported_languages": [
+        "bn",
+        "en",
+        "th",
+        "tr",
+        "vi",
+        "ru"
+    ],
+    "fallback_language": "en",
+    "fallback_operator": "km",
+    "language_code_mapping":
+    {
+        "km": 
+        {
+            "en": "en",
+            "th": "th",
+            "cn": "zh-cn",
+            "vn": "vi",
+            "id": "id",
+            "my": "my",
+            "kr": "ko",
+            "ptbr": "pt-br",
+            "esla": "es",
+            "ru": "ru",
+            "jp": "jp",
+            "hant": "zh-tw",
+            "bn": "bn",
+            "tr": "tr"
+        },
+        "qm": 
+        {
+            "en-us": "en",
+            "th-th": "th",
+            "vi-vn": "vi",
+            "id-id": "id",
+            "ru-ru": "ru",
+            "bn-bd": "bn",
+            "tr-tr": "tr"
+        }
+    }
+}
